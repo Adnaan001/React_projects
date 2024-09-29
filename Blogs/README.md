@@ -1,8 +1,13 @@
-# React + Vite
+Blogs Platform
+A dynamic blog platform built with React, featuring seamless navigation and content fetching via CodeHelp-Blogs API.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#Features
+=>React Router for navigating between blogs, tags, and categories.
+=>Context API for global state management.
+=>Pagination to handle multiple pages of content efficiently.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#Technologies
+=>React
+=>React Router
+=>Context API
+=>CodeHelp-Blogs API
