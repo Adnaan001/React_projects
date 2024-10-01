@@ -1,8 +1,7 @@
-# React + Vite
+UrbanCart 🛒
+UrbanCart is a simple yet effective e-commerce mini-store built with React and Redux Toolkit. It allows users to browse through products, add items to their cart, remove them, and view the total amount in real-time. The project focuses on demonstrating a scalable React application with state management.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://github.com/user-attachments/assets/7df9aa12-fa15-4175-9d9a-7affab885225
+
