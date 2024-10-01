@@ -1,0 +1,22 @@
+.app{
+  background-image: linear-gradient(90deg,#23074d,#cc5333);
+}
+
+.ani{
+  animation-name: cart_ani;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes cart_ani {
+  0%{
+      top:16px;
+  }
+  50%{
+    top:12px;
+  }
+  100%{
+    top:16px;
+  }
+
+}
